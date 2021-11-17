@@ -12,9 +12,32 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          <Link href="https://shopify.com">Yo hello!!!!!!!</Link>
+          Sup this is the first page
         </h1>
         <Heading1 />
+        <div>
+          <h1>Content to push the link down 1</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down 2</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down3 </h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down</h1>
+          <h1>Content to push the link down LAST</h1>
+          <h1><Link href="/second-page">Link to second page</Link></h1>
+        </div>
       </main>
     </div>
   )
